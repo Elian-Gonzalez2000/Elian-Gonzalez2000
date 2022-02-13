@@ -40,4 +40,4 @@ Email: eliancarlogm@gmail.com
 ## Stats
 ![Stats langs](https://github-readme-stats.vercel.app/api/top-langs?username=elian-gonzalez2000&show_icons=true&theme=dark&locale=en&layout=compact)
 
-![Stats activi](https://github-readme-stats.vercel.app/api?username=bryancpineda&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en)
+![Stats activi](https://github-readme-stats.vercel.app/api?username=elian-gonzalez2000&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en)
