@@ -1,19 +1,21 @@
-# Hola, Soy Elian! 👋
+# Hi, I am Elian! 👋
 
 
 ![Logo](Banner.png)
 
 
 ##  About Me
-Soy un Full Stack Developer, desarrollo mis habilidades con gran destreza ya sea en Frontend o Backend, aunque me oriento un poco mas al Front.
+I am a Full Stack Developer, I develop my skills with great skill in both Frontend and Backend, although I am a little more oriented to the Front.
 
-Me considero un desarrollador con gran capacidad de aprendizaje y sobre todo una gran disposición al momento de crear, aprender, innovar y ayudar sobre el crecimiento de la empresa o comunidad.
+I consider myself a developer with great learning ability and above all with great desire to create, learn, innovate and help in the growth of the company or community.
 
-He aprovado 5 trimestres para Tecnico Superior en Informática, esto mientras estudiaba de manera autodidacta las tecnologia del desarrollo web y luego entre al Bootcamp de Henry para reforzar mis conocimientos y desempeñarme como Full Stack Developer.
+I have completed my career as a Computer Science Technician, this while I was self-taught in web development technology and then I entered the Henry Bootcamp to strengthen my knowledge and work as a Full Stack Developer.
 
-Mi experiencia laboral ha sido principalmente en el ámbito académico, desarrollando aplicaciones con librerías y frameworks de JavaScript en el Frontend tecnologías como React-Redux, en el Backend Node, Express, PostgreSQL entre otras...
+My work experience has been mainly in the academic field, developing applications with libraries and JavaScript frameworks in Frontend technologies such as Javascript, React and in the Backend Node, Express, PostgreSQL among others.....
 
-Te gustaria hablar conmigo? ¡Puedes contactarme! 
+Do you want to know me better, then contact me on my networks! 
+
+Thanks for stopping by my Github
 
 Email: eliancarlogm@gmail.com
 
