@@ -15,7 +15,7 @@ My work experience has been mainly in the academic field, developing application
 
 Do you want to know me better, then contact me on my networks! 
 
-Thanks for stopping by my Github
+Thanks for stopping by my Github.
 
 Email: eliancarlogm@gmail.com
 
@@ -26,9 +26,12 @@ Email: eliancarlogm@gmail.com
 * LESS
 * JavaScript
 * React
+* Astro
 * Node
 * Express
+* Nextjs
 * Sequelize
+* MongoDb
 * PostgreSQL
 * Figma
 
