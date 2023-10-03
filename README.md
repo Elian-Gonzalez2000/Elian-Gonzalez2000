@@ -24,6 +24,7 @@ Email: eliancarlogm@gmail.com
 * HTML
 * CSS
 * LESS
+* Tailwind CSS
 * JavaScript
 * React
 * Astro
