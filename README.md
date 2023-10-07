@@ -31,9 +31,10 @@ Email: eliancarlogm@gmail.com
 * Node
 * Express
 * Nextjs
+* PostgreSQL
 * Sequelize
 * MongoDb
-* PostgreSQL
+* Mongoose
 * Figma
 
 
